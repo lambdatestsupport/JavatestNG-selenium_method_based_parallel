@@ -6,7 +6,7 @@
 	<artifactId>Java-TestNG-Selenium</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<build>
-		<sourceDirectory>Java-TestNG-Selenium/src</sourceDirectory>
+		<sourceDirectory>java-testng-selenium</sourceDirectory>
 		<resources>
 			<resource>
 				<directory>Java-TestNG-Selenium/src</directory>
@@ -50,7 +50,7 @@
 			<artifactId>selenium-java</artifactId>
 			<version>3.13.0</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<!--		 https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
